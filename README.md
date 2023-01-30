@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timschloe also known as Karl-Heinz Häsliprinz
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in Climate & Decentralized Public Procurement
-- 🌱 I’m currently learning Nextcloud & Peertube
+- 🌱 I’m currently learning Devops for Nextcloud & Peertube
 - 💞️ I’m looking to collaborate on the Future
